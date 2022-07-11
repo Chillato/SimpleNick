@@ -1,0 +1,18 @@
+name: SimpleNick
+version: 0.1
+main: ChillatoDev\SimpleNick
+author: ChillatoDev
+api: 4.0.0
+
+commands:
+  nick:
+    permission: nick.use
+    description: "set a nick"
+  nickreset:
+    permission: nick.use
+    description: "reset your nick"
+
+permissions:
+  nick.use:
+    description:
+    default: op
