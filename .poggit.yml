@@ -5,5 +5,5 @@ branches:
 projects:
   SimpleNick:
     path: ""
-    icon: icon.png
+    icon: meta\icon.png
 ...
