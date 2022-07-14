@@ -1,6 +1,6 @@
 name: SimpleNick
 version: 0.1
-main: ChillatoDev\SimpleNick
+main: Chillato\SimpleNick
 author: ChillatoDev
 api: 4.0.0
 
