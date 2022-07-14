@@ -6,13 +6,13 @@ api: 4.0.0
 
 commands:
   nick:
-    permission: nick.use
+    permission: simplenick.use
     description: "set a nick"
   nickreset:
     permission: nick.use
     description: "reset your nick"
 
 permissions:
-  nick.use:
+  simplenick.use:
     description:
     default: op
