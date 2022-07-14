@@ -1,6 +1,6 @@
 <?php
 
-namespace ChillatoDev;
+namespace Chillato;
 
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
