@@ -20,7 +20,7 @@ class SimpleNick extends PluginBase implements Listener {
             switch($command->getName()){
                 case "nick":
                     if(count($args) > 1 || empty($args)){
-                        $sender->sendMessage("§l§eNick §7>> §cUsage: /nick [nick]");
+                        $sender->sendMessage("§l§eNick §7>> §cUsage: /nick <nick>");
                         return false;
                     } else {
                         $sender->setDisplayName($args[0]);
