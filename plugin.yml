@@ -1,7 +1,7 @@
 name: SimpleNick
 version: 0.1
 main: Chillato\SimpleNick
-author: ChillatoDev
+author: Chillato
 api: 4.0.0
 
 commands:
