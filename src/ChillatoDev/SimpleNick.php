@@ -12,7 +12,6 @@ class SimpleNick extends PluginBase implements Listener {
 
     public function onEnable(): void
     {
-        $this->getLogger()->info("§l§aSimpleNick ON!");
     }
 
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool
